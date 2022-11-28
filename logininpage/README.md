@@ -188,7 +188,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ~~~
 ## OUTPUT:
-![image](1.png)
+![image](![image](https://user-images.githubusercontent.com/94154621/204230908-eb56c71a-477d-4411-85a7-6561282357a6.png))
 
 
 ## RESULT
